@@ -12,15 +12,15 @@
 
 ### Tools  
 
-![R](./assets/sql-server.png)
-![Python](./assets/python.png)
-![PostgreSQL](./assets/sql-server.png)
-![Excel](./assets/excel.png)
-![Microsoft Power BI](./assets/powerbi.png)
-![DAX](./assets/powerbi.png)
-![Data Studio](./assets/powerbi.png)
-![Git](./assets/Git-Icon-1788C.png)
-![GitHub](./assets/github.png)
+![R](./imagens/R.png)
+![Python](./imagens/python.png)
+![PostgreSQL](./imagens/postgresql.png)
+![Excel](./imagens/excel.png)
+![Microsoft Power BI](./imagens/powerbi.png)
+![DAX](./imagens/DAX.png)
+![Data Studio](./imagens/DataStudio.png)
+![Git](./imagens/Git-Icon-1788C.png)
+![GitHub](./imagens/github2.png)
 
 
 ### Minhas Estatísticas 
