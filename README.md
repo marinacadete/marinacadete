@@ -1,4 +1,4 @@
-![banner](./imagens/fundo.png)  
+![banner](./imagens/fundo2.png)  
 
 [![GitHub followers](https://img.shields.io/github/followers/marinacadete?style=flat&logo=github&logoColor=ffffff&colorA=2E3440&colorB=FFFFFF)](https://github.com/marinacadete)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/marinacadete)
@@ -10,7 +10,7 @@
 ∑∫ Atualmente curso Bacharelado em Estatística na Universidade de Brasília.  
 📈Faço parte da Empresa Júnior ESTAT-Consultoria Estatística como Assessora de Gestão.
 
-### Tools  
+### Linguagens e Ferramentas  
 
 ![R](./imagens/R.png)
 ![Python](./imagens/python.png)
