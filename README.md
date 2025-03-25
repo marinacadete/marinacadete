@@ -16,6 +16,7 @@
 ![Python](./imagens/python.png)
 ![PostgreSQL](./imagens/postgresql.png)
 ![Excel](./imagens/excel.png)
+![Power Query](./imagens/PQ.png)
 ![Microsoft Power BI](./imagens/powerbi.png)
 ![Data Studio](./imagens/DataStudio.png)
 ![Git](./imagens/Git-Icon-1788C.png)
