@@ -29,13 +29,13 @@
 <div widht="100%" align="left">
   <img 
       align="top" 
-      height="145" 
+      height="147" 
       src="https://github-readme-stats.vercel.app/api?username=marinacadete&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=pt-br&hide_border=true&order=1" 
       alt="stats graph"  
   />
   <img 
       align="top" 
-      height="145" 
+      height="147" 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=marinacadete&locale=pt-br&hide_title=true&layout=compact&theme=nord&langs_count=5&hide_border=true&order=2&hide=roff"  
      alt="languages graph"  
   />
