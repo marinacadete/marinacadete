@@ -17,7 +17,6 @@
 ![PostgreSQL](./imagens/postgresql.png)
 ![Excel](./imagens/excel.png)
 ![Microsoft Power BI](./imagens/powerbi.png)
-![DAX](./imagens/DAX.png)
 ![Data Studio](./imagens/DataStudio.png)
 ![Git](./imagens/Git-Icon-1788C.png)
 ![GitHub](./imagens/github2.png)
