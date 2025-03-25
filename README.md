@@ -14,6 +14,7 @@
 
 ![R](./imagens/R.png)
 ![Python](./imagens/python.png)
+![C++](./imagens/cpp.jpg)
 ![PostgreSQL](./imagens/postgresql.png)
 ![Excel](./imagens/excel.png)
 ![Power Query](./imagens/PQ.png)
@@ -29,13 +30,13 @@
   <img 
       align="top" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api?username=marinacadete&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=en&hide_border=true&order=1" 
+      src="https://github-readme-stats.vercel.app/api?username=marinacadete&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=pt-br&hide_border=true&order=1" 
       alt="stats graph"  
   />
   <img 
       align="top" 
       height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=marinacadete&locale=en&hide_title=false&layout=compact&theme=nord&langs_count=5&hide_border=true&order=2&hide=roff"  
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=marinacadete&locale=pt-br&hide_title=true&layout=compact&theme=nord&langs_count=5&hide_border=true&order=2&hide=roff"  
      alt="languages graph"  
   />
 </div>  
