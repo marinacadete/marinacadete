@@ -7,8 +7,7 @@
 
 ### Sobre Mim  
 
-∑∫ Atualmente curso Bacharelado em Estatística na Universidade de Brasília.  
-📈Faço parte da Empresa Júnior ESTAT-Consultoria Estatística como Assessora de Gestão.
+∑∫ Bacharel em Estatística na Universidade de Brasília.  
 
 ### Linguagens e Ferramentas  
 
