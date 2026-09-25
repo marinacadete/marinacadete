@@ -49,12 +49,12 @@ Sou apaixonada por análise de dados, modelagem estatística e resolução de pr
 <div align="center">
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=marinacadete&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=nord&disable_animations=false&locale=pt-br&hide_border=true" 
-    alt="Estatísticas do GitHub" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=marinacadete&theme=nord&hide_border=true" 
+    alt="GitHub Streak" 
   />
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=marinacadete&locale=pt-br&hide_title=false&layout=compact&theme=nord&langs_count=5&hide_border=true&hide=roff" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=marinacadete&layout=compact&theme=nord&langs_count=5&hide_border=true" 
     alt="Linguagens mais usadas" 
   />
 </div>
